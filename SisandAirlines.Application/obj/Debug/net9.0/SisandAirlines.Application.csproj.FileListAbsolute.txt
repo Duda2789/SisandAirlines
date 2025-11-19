@@ -1,0 +1,15 @@
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\bin\Debug\net9.0\SisandAirlines.Application.deps.json
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\bin\Debug\net9.0\SisandAirlines.Application.dll
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\bin\Debug\net9.0\SisandAirlines.Application.pdb
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\bin\Debug\net9.0\SisandAirlines.Domain.dll
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\bin\Debug\net9.0\SisandAirlines.Domain.pdb
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\obj\Debug\net9.0\SisandAirlines.Application.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\obj\Debug\net9.0\SisandAirlines.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\obj\Debug\net9.0\SisandAirlines.Application.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\obj\Debug\net9.0\SisandAirlines.Application.AssemblyInfo.cs
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\obj\Debug\net9.0\SisandAirlines.Application.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\obj\Debug\net9.0\SisandAi.0D824459.Up2Date
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\obj\Debug\net9.0\SisandAirlines.Application.dll
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\obj\Debug\net9.0\refint\SisandAirlines.Application.dll
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\obj\Debug\net9.0\SisandAirlines.Application.pdb
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Application\obj\Debug\net9.0\ref\SisandAirlines.Application.dll

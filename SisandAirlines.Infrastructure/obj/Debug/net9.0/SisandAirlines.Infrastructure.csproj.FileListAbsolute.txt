@@ -1,0 +1,17 @@
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\bin\Debug\net9.0\SisandAirlines.Infrastructure.deps.json
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\bin\Debug\net9.0\SisandAirlines.Infrastructure.dll
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\bin\Debug\net9.0\SisandAirlines.Infrastructure.pdb
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\bin\Debug\net9.0\SisandAirlines.Application.dll
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\bin\Debug\net9.0\SisandAirlines.Domain.dll
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\bin\Debug\net9.0\SisandAirlines.Application.pdb
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\bin\Debug\net9.0\SisandAirlines.Domain.pdb
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\obj\Debug\net9.0\SisandAirlines.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\obj\Debug\net9.0\SisandAirlines.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\obj\Debug\net9.0\SisandAirlines.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\obj\Debug\net9.0\SisandAirlines.Infrastructure.AssemblyInfo.cs
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\obj\Debug\net9.0\SisandAirlines.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\obj\Debug\net9.0\SisandAi.B3F12250.Up2Date
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\obj\Debug\net9.0\SisandAirlines.Infrastructure.dll
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\obj\Debug\net9.0\refint\SisandAirlines.Infrastructure.dll
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\obj\Debug\net9.0\SisandAirlines.Infrastructure.pdb
+C:\Users\crist\Desktop\sisand-airlines\SisandAirlines.Infrastructure\obj\Debug\net9.0\ref\SisandAirlines.Infrastructure.dll
