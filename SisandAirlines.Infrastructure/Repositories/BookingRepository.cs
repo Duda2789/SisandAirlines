@@ -19,7 +19,6 @@ namespace SisandAirlines.Infrastructure.Repositories
             IEnumerable<BookingPassenger> passengers,
             IEnumerable<SeatReservation> reservations)
         {
-            // inicia transação local só para o booking
             using var transaction = _connection.BeginTransaction();
 
             try
